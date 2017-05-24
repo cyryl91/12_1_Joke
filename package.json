@@ -1,0 +1,18 @@
+{
+  "name": "kodilla_12_1_joke",
+  "version": "1.0.0",
+  "description": "task chuck noris",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla test\u001b[D\u001b[D\u001b[D\u001b[_"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "domaslawski",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
